@@ -19,9 +19,13 @@ public class TUGASSTRUKTURDATA {
             }
             System.out.println("array long");
             long []longa={5678,8907,7860};
-           for (int i = 0; i < longa.length; i++) {
-               System.out.println(longa[i]);
-           }
+            int j =0;
+            while(j < longa.length){
+                System.out.println(longa[j]);
+                j++;
+            
+    }
+                      
            System.out.println("array byte");
            byte []bytea={1,2,3};
            System.out.println(bytea[2]);
