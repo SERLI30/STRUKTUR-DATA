@@ -11,9 +11,14 @@ public class STRUKTURDATA2DIMENSINONPRIMITIF {
         System.out.println("array 1 dimensi string");
         String[] nama = {"serli", "sherlhy", "lily"};
         System.out.println(nama[1]);
-
+        
+        String []namaa = {"nana","nini","nunu"};
+        System.out.println(namaa.length);
+    }
+    
+   
     }
 
-}
-}
-        }}
+
+
+        
