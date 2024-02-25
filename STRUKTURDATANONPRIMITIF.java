@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 
 
-public class STRUKTURDATA2DIMENSINONPRIMITIF {
+public class STRUKTURDATANONPRIMITIF {
 
     public static void main(String[] args) {
         System.out.println("array 1 dimensi string");
